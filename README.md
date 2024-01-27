@@ -1,2 +1,2 @@
 # bookbot
-Bookbot repository
+Bookbot repository is legit
